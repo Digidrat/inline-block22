@@ -1,0 +1,104 @@
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    height: 100px;
+}
+
+.title {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+.list {
+    background: rgb(233, 42, 106);
+    line-height: 30px;
+}
+
+.list li {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+}
+
+.list li a {
+    display: inline-block;
+    width: 290px;
+    text-decoration: none;
+    border: 5px solid transparent;
+    color: black;
+    font-size: 20px;
+}
+
+.list li a:hover {
+    text-decoration: underline;
+    border: 1px solid;
+}
+
+.left {
+    display: inline-block;
+    width: calc(25% - 4px);
+    font-size: 20px;
+}
+
+.calendar {
+    display: inline-block;
+    vertical-align: middle;
+    height: 510px;
+}
+
+.right {
+    vertical-align: top;
+    display: inline-block;
+    width: calc(52% - 2px);
+    font-size: 20px;
+}
+
+.photo1 {
+    justify-content: center;
+    display: inline-block;
+    vertical-align: center;
+    height: 450px;
+}
+
+.right1 {
+    vertical-align: top;
+    display: inline-block;
+    width: calc(23% - 5px);
+    
+}
+
+.photo {
+    display: inline-block;
+    vertical-align: middle;
+    height: 550px;
+}
+
+footer {
+    text-align: center;
+    background: rgb(233, 42, 106);
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.photo2 {
+    display: inline-block;
+    vertical-align: middle;
+    height: 550px;
+}
+
+.photo3 {
+    display: inline-block;
+    vertical-align: middle;
+    height: 530px;
+}
+
+.photo4 {
+    display: inline-block;
+    vertical-align: middle;
+    height: 550px;
+}
+
+.logoimg {
+    height: 100px;
+}
